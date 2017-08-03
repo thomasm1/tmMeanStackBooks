@@ -1,0 +1,43 @@
+{
+  "name": "tmmeanstackbooks",
+  "version": "0.0.1",
+  "description": "data on academic articles and books, tmm, tmm data, statistics on books, ivory tower",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "express":"*",
+    "mongoose":"*",
+    "bcryptjs":"*",
+    "cors":"*",
+    "jsonwebtoken":"*",
+    "body-parser":"*",
+    "passport":"*",
+    "passport-jwt":"*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasm1/tmMeanStackBooks.git"
+  },
+  "keywords": [
+    "data",
+    "on",
+    "academic",
+    "articles",
+    "books",
+    "tmm",
+    "tmm",
+    "data",
+    "statistics",
+    "books",
+    "ivory",
+    "tower"
+  ],
+  "author": "thomas maestas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasm1/tmMeanStackBooks/issues"
+  },
+  "homepage": "https://github.com/thomasm1/tmMeanStackBooks#readme"
+}
